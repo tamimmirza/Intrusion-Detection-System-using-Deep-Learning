@@ -1,5 +1,18 @@
 # Intrusion Detection System using Deep Learning
+
 VGG-19 deep learning model trained using ISCX 2012 IDS Dataset
+
+# Framework & API's 
+
+* Tensorflow
+* Keras
+* CUDA
+
+# Tools
+
+* Anaconda
+* Pycharm
+
 
 # How to use
 Download the ISCX 2012 data set from the link
