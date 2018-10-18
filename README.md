@@ -31,10 +31,14 @@ https://towardsdatascience.com/python-environment-setup-for-deep-learning-on-win
 
 #### Note: If your system is inadequate then I humbly request you to stop here as the program will not perform efficiently and a great deal of time will be wasted.
 
-Next run the program on the pre-processed data (change the location of the save file in the code)
+Next run the program on the pre-processed data (change the location of the save file in the code). This will take out the relevant data fields in XML format for each file
 
     xml data extract.py
-    
+
+Next to process the data into Numpy Arrays u need to run the following python file:
+
+    Data_Extraction_Revised.py
+
 When completed you can now run (assuming you have Jupyter Notebook) the program.
 You have to change the location of the save file, in the code, to the save file from the XML extraction program
 
