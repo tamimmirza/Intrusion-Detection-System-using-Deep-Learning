@@ -40,7 +40,7 @@ Next to process the data into Numpy Arrays u need to run the following python fi
     Data_Extraction_Revised.py
 
 When completed you can now run (assuming you have Jupyter Notebook) the program.
-You have to change the location of the save file, in the code, to the save file from the XML extraction program
+You have to change the location of the save file, in the code, to the save file from the revised data extraction program
 
     FYP-Revised.ipynb
 
