@@ -11,7 +11,7 @@ VGG-19 deep learning model trained using ISCX 2012 IDS Dataset
 # Tools
 
 * Anaconda
-* Pycharm
+* PyCharm
 
 
 # How to use
