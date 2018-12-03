@@ -24,8 +24,6 @@ Then run the Java program known as ISCX FlowMeter which is found here on GitHub.
 
 https://github.com/ISCX/CICFlowMeter
 
-#### Note: If you dont want to do this, you can email me and I can send you the file containing the pre-processed data. But you should be aware that the data set is approx 3 GB.
-
 Next I want you to make sure that your system is capable of running deep learning software. To check you can follow this guide that I have created:
 
 https://towardsdatascience.com/python-environment-setup-for-deep-learning-on-windows-10-c373786e36d1
