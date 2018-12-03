@@ -22,7 +22,7 @@ http://www.unb.ca/cic/datasets/ids.html
 
 Then run the Java program known as ISCX FlowMeter which is found here on GitHub. You can use any IDE for that
 
-https://github.com/ISCX/ISCXFlowMeter
+https://github.com/ISCX/CICFlowMeter
 
 #### Note: If you dont want to do this, you can email me and I can send you the file containing the pre-processed data. But you should be aware that the data set is approx 3 GB.
 
