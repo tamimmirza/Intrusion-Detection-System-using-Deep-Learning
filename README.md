@@ -22,7 +22,9 @@ http://www.unb.ca/cic/datasets/ids.html
 
 Then run the Java program known as ISCX FlowMeter which is found here on GitHub. You can use any IDE for that
 
-https://github.com/ISCX/CICFlowMeter
+https://github.com/ISCX/CICFlowMeter (if this doesnt convert .PCAP to .XML then try below)
+
+https://github.com/ISCX/ISCXFlowMeter
 
 Next I want you to make sure that your system is capable of running deep learning software. To check you can follow this guide that I have created:
 
